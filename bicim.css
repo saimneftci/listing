@@ -1,0 +1,46 @@
+A {TEXT-DECORATION: none;}
+
+A:hover {
+	BACKGROUND-COLOR: #336699; COLOR: #ffffff; TEXT-DECORATION: none
+}
+.menu:hover{BACKGROUND-COLOR: blue; TEXT-DECORATION: none; COLOR: #ffffcc;
+}
+.TextBox {
+	BORDER-RIGHT: black 1px groove; BORDER-TOP: black 1px groove; FONT-SIZE: 9pt; BORDER-LEFT: black 1px groove; COLOR: black; BORDER-BOTTOM: black 1px groove; FONT-FAMILY: monospace
+
+}
+form:active {
+	BACKGROUND-COLOR: #336699; BORDER-RIGHT: black 1px groove; BORDER-TOP: black 1px groove; FONT-SIZE: 9pt; BORDER-LEFT: black 1px groove; COLOR: black; BORDER-BOTTOM: black 1px groove; FONT-FAMILY: monospace
+}
+.TextBox2 {
+	BACKGROUND-COLOR: #0086ad; BORDER-RIGHT: black 1px groove; BORDER-TOP: black 1px groove; FONT-SIZE: 9pt; BORDER-LEFT: black 1px groove; COLOR: white; BORDER-BOTTOM: black 1px groove; FONT-FAMILY: impact
+}
+
+.kutu_sitili
+{
+align:center;
+valign:bottom;
+margin-left:250px;
+margin-top:-5px;
+height:10px;
+width:300px;
+border-style:none;
+border-width:2px;
+padding-top:4px; 
+padding-left:1px;
+padding-right:1px;
+padding-bottom:3px;
+font-family:impact;
+font-size:11pt;
+}
+.index{
+align:center;
+background-image:url("resimler/indexarka.gif");
+background-repeat:no-repeat;
+background-position:center;
+}
+
+.kutu
+{
+float:left;
+}
